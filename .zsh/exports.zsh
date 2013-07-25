@@ -3,7 +3,7 @@
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 
-export PATH=${PATH}:/Users/janantala/android-sdk-macosx/platform-tools/:/Users/janantala/android-sdk-macosx/tools/
+export PATH=${PATH}:$HOME/android-sdk-macosx/platform-tools:$HOME/android-sdk-macosx/tools
 
 export PATH=/usr/local/texlive/2011/bin:$PATH
 
