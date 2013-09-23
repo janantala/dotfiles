@@ -56,3 +56,5 @@ function clone {
 
   git clone $url $repo && cd $repo && subl .;
 }
+
+alias gh="open \`git remote -v | grep github.com | grep fetch | head -1 | cut -f2 | cut -d' ' -f1 | sed -e 's/git@/http:\/\//'\`"
