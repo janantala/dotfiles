@@ -58,3 +58,5 @@ function clone {
 }
 
 alias gh="open \`git remote -v | grep github.com | grep fetch | head -1 | cut -f2 | cut -d' ' -f1 | sed -e 's/git@/http:\/\//'\`"
+
+alias ios="ios_webkit_debug_proxy & open http://localhost:9221"
