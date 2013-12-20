@@ -29,4 +29,4 @@ Make symbolic links into your $HOME directory
 
 The MIT License
 
-Copyright (c) 2013 Jan Antala, https://github.com/janantala
+Copyright (c) 2013 [Jan Antala](http://www.janantala.com)
