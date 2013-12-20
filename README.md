@@ -4,6 +4,9 @@ My dotfiles
 
 ## What is included?
 
+### vim config
+- vundle
+
 ### zsh shell config
 
 #### Promt
@@ -11,7 +14,6 @@ My dotfiles
 
 #### Exports
 - android sdk
-- rvm
 - texlive
 - heroku
 
