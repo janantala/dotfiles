@@ -1,0 +1,5 @@
+" Autocommands {{{
+
+  " Vimscript file settings {{{
+  " }}}
+" }}}
