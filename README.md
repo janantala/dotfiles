@@ -24,6 +24,12 @@ My dotfiles
 ## Configuration
 Make symbolic links into your $HOME directory
 
+```shell
+.vim -> ~/.vim
+.vimrc -> ~/.vimrc
+.zsh -> ~/.zsh
+.zshrc -> ~/.zshrc
+```
 
 ## License
 
