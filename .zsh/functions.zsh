@@ -62,3 +62,5 @@ alias gh="open \`git remote -v | grep github.com | grep fetch | head -1 | cut -f
 alias ios="ios_webkit_debug_proxy & open http://localhost:9221"
 
 alias enpm="npm --registry http://registry.npmjs.eu"
+
+ulimit -n 10000
