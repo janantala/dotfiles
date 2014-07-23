@@ -16,3 +16,7 @@ export ANDROID_HOME=/Applications/Android\ Studio.app/sdk/
 GRADLE_HOME=/Users/janantala/gradle;
 export GRADLE_HOME
 export PATH=$PATH:$GRADLE_HOME/bin
+
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
